@@ -1,0 +1,3 @@
+/home/ubuntu/openmrs-modules/openmrs-module-registrationcore/omod/src/main/java/org/openmrs/module/registrationcore/web/rest/PatientsBySimilarPatientSearchHandler.java
+/home/ubuntu/openmrs-modules/openmrs-module-registrationcore/omod/src/main/java/org/openmrs/module/registrationcore/extension/html/AdminList.java
+/home/ubuntu/openmrs-modules/openmrs-module-registrationcore/omod/src/main/java/org/openmrs/module/registrationcore/web/rest/BiometricsStatusController.java
